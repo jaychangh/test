@@ -18,3 +18,7 @@ modification in branch dev
 
 change in master, conflict solved
 
+# modification 6
+
+dev change
+
